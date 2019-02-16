@@ -1,0 +1,24 @@
+{
+  "name": "raect",
+  "version": "1.0.2",
+  "description": "you misspelled react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plgrazon/Raect.git"
+  },
+  "author": "Paolo Razon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plgrazon/Raect/issues"
+  },
+  "homepage": "https://github.com/plgrazon/Raect#readme",
+  "files": [
+    "README.md",
+    "LICENSE",
+    "index.js"
+  ]
+}
