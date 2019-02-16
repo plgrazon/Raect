@@ -1,10 +1,10 @@
 {
   "name": "raect",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "you misspelled react",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "files": [
     "README.md",
     "LICENSE",
-    "index.js"
+    "index.js",
+    "test.js"
   ]
 }
